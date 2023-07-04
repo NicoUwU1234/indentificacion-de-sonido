@@ -1,0 +1,33 @@
+body{
+background: linear-gradient(rgb(34, 171, 245),rgb(255, 255, 255));
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.encabezado{
+    background-color: rgb(57, 95, 248);
+    color: gold;
+}
+.encabezado p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    letter-spacing: 2.5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 28px;
+    width: 125px;
+    font-weight: bolder;
+    letter-spacing: 2.5px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 22px;
+    background-color: aliceblue;
+    line-height: 4;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(246, 246, 135);
+}
